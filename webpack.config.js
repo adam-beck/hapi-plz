@@ -5,7 +5,6 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
   entry: [
-    'webpack/hot/dev-server',
     'webpack-hot-middleware/client',
     './src/index.js'
   ],
