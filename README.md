@@ -12,4 +12,6 @@ if (module.hot) {
 }
 ```
 
+By navigating to `http://localhost:3000` you should have access to your application.
+
 
