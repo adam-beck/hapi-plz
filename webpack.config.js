@@ -30,5 +30,8 @@ module.exports = {
     })
   ],
   assets: {
+    stats: {
+      colors: true
+    }
   }
 };
